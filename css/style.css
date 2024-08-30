@@ -1,7 +1,22 @@
 html {
     font-size: 1.2rem;
+    background-color: rgb(164, 128, 200);
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
 
 li {
     list-style-type: none;
+    margin-right: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    display: flex;
 }
